@@ -1,4 +1,6 @@
 # Implementation of async code (built on Async / await) and its testing
+---
+[![Build status](https://ci.appveyor.com/api/projects/status/it80i6fa1uoxdeyk?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-async-async-await)
 
 
 ### Описание
