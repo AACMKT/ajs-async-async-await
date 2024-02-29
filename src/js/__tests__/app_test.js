@@ -1,6 +1,6 @@
 import saveData from '../app';
 
-test('', async () => {
+test('app resolved test', async () => {
   const data = await saveData;
   expect(data).toEqual({
     id: 9,
